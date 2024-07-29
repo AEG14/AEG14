@@ -52,7 +52,7 @@ Welcome to my GitHub! I'm an IT student with a passion for crafting mobile and w
 
 - Portfolio: [aithan.my.canva.site](https://aithan.my.canva.site/)
 - Email: [gimenezaithan@gmail.com](mailto:gimenezaithan@gmail.com)
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aithan-eulysse-gimenez-0113ba1a3/)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aithan-eulysse-gimenez-0113ba1a3/)
 
 ## 🎓 Education
 
