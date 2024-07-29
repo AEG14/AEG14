@@ -1,7 +1,8 @@
-Welcome to My GitHub 👨‍💻
+Welcome to My GitHub
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt.gif)" width="100"/>
 </div>
+
 Hey! I'm Aithan Eulysse, a fourth-year IT student and tech enthusiast from the beautiful island of Cebu. Think of me as your go-to guy for mobile app development, with a knack for handling business logic and a passion for clean code. I love working with Flutter, Firebase, and Angular, but I've also dabbled in Git, Docker, Python, Laravel, and React.
 
 🎨 What I Do
