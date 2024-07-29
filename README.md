@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Aithan!👨‍💻
+# 👋 Hello, I'm Aithan! <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100" height="100" />
 
 Welcome to my GitHub! I'm an IT student with a passion for crafting mobile and web applications where I mostly handle the nitty-gritty business logic. I enjoy tackling challenges head-on and learning new things along the way. When I'm not coding, you can find me exploring new tech trends or just simply gaming. Let's build something amazing together!
 
@@ -36,11 +36,17 @@ Welcome to my GitHub! I'm an IT student with a passion for crafting mobile and w
 
 ## 📈 Stats & Achievements
 
-![Aithan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AEG14&show_icons=true&title_color=blue&icon_color=blue&text_color=grey&bg_color=white)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AEG14&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=151515" alt="Aithan's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=AEG14&theme=dark" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AEG14&layout=compact&hide=html&title_color=blue&text_color=grey&bg_color=white)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AEG14&theme=light)](https://git.io/streak-stats)
 
 ## 📫 Connect with Me
 
@@ -55,4 +61,3 @@ Welcome to my GitHub! I'm an IT student with a passion for crafting mobile and w
 *“If I don't have to do it, I won't. If I have to do it, I'll make it”*
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AEG14)
-
