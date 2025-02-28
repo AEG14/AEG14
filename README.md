@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm an IT student with a passion for crafting mobile and w
 - **SkinSense:** Currently in development as our final Capstone Project to make it an app with a full cycle of its functionalities. It's built with Flutter, Firebase, Google Maps, ZegoCloud, Paypal or Sandbox, and some small Machine Learning for Image Classification.
 ### 🏆 **IPBL 2024 (International Project-Based Learning) | STUST, Tainan, Taiwan**  
 - **🥇 1st Place - Smart Drone Creative Challenge:**  
-  - Built a **Search and Rescue** app in one night using Firebase and a Raspberry Pi drone.  
+  - Built a **Search and Rescue** app using Firebase and a Raspberry Pi drone.  
   - Implemented gesture detection, location pinning, and real-time alerts.  
 - **🥉 3rd Place - Smart Drone Vision Challenge:**  
   - Collaborated internationally to program a drone for **complex shape formation** with a focus on speed and precision.  
