@@ -10,6 +10,12 @@ Welcome to my GitHub! I'm an IT student with a passion for crafting mobile and w
 - **Hatod App:** A Grab Car clone app, using Google Maps API and Firebase.
 - **AirborneAirways:** A web application for airline reservations, built with Angular and Firebase.
 - **SkinSense:** Currently in development as our final Capstone Project to make it an app with a full cycle of its functionalities. It's built with Flutter, Firebase, Google Maps, ZegoCloud, Paypal or Sandbox, and some small Machine Learning for Image Classification.
+### 🏆 **IPBL 2024 (International Project-Based Learning) | STUST, Tainan, Taiwan**  
+- **🥇 1st Place - Smart Drone Creative Challenge:**  
+  - Built a **Search and Rescue** app in one night using Firebase and a Raspberry Pi drone.  
+  - Implemented gesture detection, location pinning, and real-time alerts.  
+- **🥉 3rd Place - Smart Drone Vision Challenge:**  
+  - Collaborated internationally to program a drone for **complex shape formation** with a focus on speed and precision.  
 
 ## 🛠️ Tech Stack
 <div>
@@ -50,7 +56,9 @@ Welcome to my GitHub! I'm an IT student with a passion for crafting mobile and w
 
 ## 📫 Connect with Me
 
-- Portfolio: [aithan.my.canva.site](https://aithan.my.canva.site/)
+- Portfolio: [aeg-portfolio.vercel.app](https://aeg-portfolio.vercel.app/)
+- Freelance Portfolio: [aithan.my.canva.site](https://aithan.my.canva.site/)
+- A+Works: [onemile.club/aworks](https://onemile.club/aworks)
 - Email: [gimenezaithan@gmail.com](mailto:gimenezaithan@gmail.com)
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aithan-eulysse-gimenez-0113ba1a3/)
 
