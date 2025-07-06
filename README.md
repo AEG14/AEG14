@@ -1,9 +1,10 @@
 # 👋 Hello, I'm Aithan! <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100" height="100" />
 
-Welcome to my GitHub! I'm an IT student with a passion for crafting mobile and web applications where I mostly handle the nitty-gritty business logic. I enjoy tackling challenges head-on and learning new things along the way. When I'm not coding, you can find me exploring new tech trends or just simply gaming. Let's build something amazing together!
+Welcome to my GitHub! I'm an Information Technology graduate with a passion for crafting mobile and web applications where I mostly handle the nitty-gritty business logic. I enjoy tackling challenges head-on and learning new things along the way. When I'm not coding, you can find me exploring new tech trends or just simply gaming. Let's build something amazing together!
 
 ## 🚀 Projects & Contributions
 
+- **SuiteDrive:** A NetSuite integration project developed during my internship at ATSourcePH, under mentorship from SliqPay (Australia). Enabled external file storage with **Google Drive and SharePoint** using **OAuth 2.0**, with SuiteScript 2.1, custom records, and RESTful integration.
 - **aQuaQuest:** Top 20 finalist in the Philippine Startup Challenge, focusing on ocean conservation.
 - **MechaniCALL:** End-to-end mobile app development using Flutter and Firebase.
 - **ENABLED:** A hackathon project supporting individuals with special needs, leveraging Google Maps API.
